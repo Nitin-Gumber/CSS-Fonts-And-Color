@@ -1,0 +1,28 @@
+p{
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    font-weight: 100;
+    line-height: 35px;
+}
+
+#fpara{
+    background-color: yellow;
+    color: red;
+}
+
+#spara{
+    background-color: rgb(87, 125, 196);
+}
+
+#tpara{
+    background-color: rgba(66, 176, 86, 0.8);
+}
+
+.fclass{
+    background-color: #fffab2;
+}
+
+#fopara{
+    background-color: hsla(240, 60%, 65%, 0.593);
+}
+
